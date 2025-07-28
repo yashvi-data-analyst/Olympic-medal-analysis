@@ -1,5 +1,5 @@
 (AI/ML) Python project to analyze Olympic medal trends across countries using pandas and matplotlib.
-# Olympic Medal Analysis 🏅
+# Olympic Medal Analysis by country🏅
 
 This Python project analyzes over 120 years of Olympic medal data to compare country-wise performance using `pandas`, `matplotlib`, and `seaborn`.
 
